@@ -23,8 +23,8 @@ If a server is attacked (nuked/raided) or accidentally broken, a prepared clone 
 
 ## Requirements (high level)
 
-* A bot or account token with the right permissions on both servers (read/manage channels, manage roles, manage emojis, change server settings).
-* The clone server must allow the bot/account to make the changes.
+* Account token with the right permissions on both servers (read/manage channels, manage roles, manage emojis, change server settings).
+* The clone server must allow the account to make the changes.
 
 > **Important:** Do not use this tool to copy servers you do not own or do not have permission to copy. Always respect Discord Terms of Service and the server owner's rights.
 
@@ -61,6 +61,10 @@ If a server is attacked (nuked/raided) or accidentally broken, a prepared clone 
 * Some features (like some 3rd-party integrations, server boosts, Nitro-exclusive emojis or features) cannot be copied.
 * Rate limits: Discord API rate limits may slow the process or require retries.
 
+## Preview
+
+[![Screenshot-2025-11-10-112626.png](https://i.postimg.cc/Vvnz7B37/Screenshot-2025-11-10-112626.png)](https://postimg.cc/fSW4yXWX)
+
 ## Support / Contact
 
-If you want the README adjusted (more technical detail, commands, or example code), tell me what you want and I will update it.
+https://guns.lol/cavord or cavord@proton.me
